@@ -1,0 +1,1 @@
+Al probar mi test en este código me ha dado seis errores, cinco de ellos porque cuando metemos el total = 0 o negativo, grandes y pequeñas negativos, falta espacio para llenar el total o pequeñas = 0, su programa devuelve -1 (se entiende que esta controlada esa posibilidad,aunque el retorno de esta función no se sabría cual de todos los errores es porque todas devuelven -1). 
