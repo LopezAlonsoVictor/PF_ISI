@@ -1,0 +1,7 @@
+Este grupo se ha saltado las especificaciones del programa DescuentoBlackFriday.java
+dadas por el enunciado. Han añadido un parámetro de entrada boolean
+que indica si estamos en 23/11.
+
+Mi test  no ha dado ningún error. He tenido que cambiar la exception esperada
+a la hora de introducir un precio negativo. He cambiado ClassCastException.class
+por IllegalArgumentException.class.
