@@ -1,0 +1,10 @@
+Primero he copiado mi RomanNumeralTest.java con el nombre de MiRomanNumeralTest.java y he modificado MiRomanNumeralTest para que funcione con su código, es decir, lo que he modificado es crear un string y poner que esperaba que me saliera el string:Error, el numero introducido es invalido.
+
+Después de realizar esto, he compilado MiRomanNumeralTest.java y el AllTests.java.No ha pasado 5 de los test que ha realizado mi grupo.
+
+El primer test falla porque no han considerado que te pueden introducir una string que sea null.
+
+El segundo test falla porque no elevan ningún error cuando te introducen numeros romanos y despues un número. 
+
+El tercer test falla porque no han considerado que te pueden introducir 4 I seguidos y lo mismo con el tercer test y cuarto test .
+
